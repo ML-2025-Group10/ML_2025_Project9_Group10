@@ -1,5 +1,7 @@
 # Project 9 Athlete Profiling: NCAA
 ### CSE623 ML Winter 2025
+
+# Team Members
 ### Group 10
 
 | Name             | Enrollment No. | Email                     |
