@@ -8,6 +8,6 @@
 |------------------|----------------|---------------------------|
 | Maanit Shah      | AU2220043      | maanit.s@ahduni.edu.in    |
 | Anant Kedia      | AU2220040      | anant.k@ahduni.edu.in     |
-| Samarth Bankar   | AU22Something  | samarth.b2@ahduni.edu.in  |
+| Samarth Bankar   | AU2220001  | samarth.b2@ahduni.edu.in  |
 | Ayush Chaurasia  | AU22Something  | ayush.c@ahduni.edu.in     |
 | Viraj Bhatia     | AU2220038      | viraj.b4@ahduni.edu.in    |
